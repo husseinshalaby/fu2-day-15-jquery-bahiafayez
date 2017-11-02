@@ -1,0 +1,17 @@
+.header{
+  background: #ccc;
+  padding: 10px
+}
+.close{
+  display: none;
+}
+input{
+  display: block;
+  margin: 10px 0
+}
+#check{
+  color:green;
+}
+#cross{
+  color:red;
+}
